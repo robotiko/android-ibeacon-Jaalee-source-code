@@ -1,4 +1,4 @@
-android-ibeacon-Pro-source-code
+﻿android-ibeacon-Pro-source-code
 ===========================
 
 ## Features ##
@@ -10,7 +10,7 @@ android-ibeacon-Pro-source-code
 - Detects any standard iBeacon
 
 ## Notices ##
-The source codes of this project are base on RadiusNetworks's open-source, and the author has rewritten and adjusted the project, Which include all the source codes. This project is  for developers to make a reference, but not for commercial purposes. If you have any questions when you use the codes , or you need  the source codes which can be used for commercial purposes, please contact us directly.
+This project is  for developers to make a reference, but not for commercial purposes. If you have any questions when you use the codes , or you need  the source codes which can be used for commercial purposes, please contact us directly.
 
 ## Supports ##
 Author：Alvin.Bert
