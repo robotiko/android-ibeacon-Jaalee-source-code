@@ -10,7 +10,7 @@
 - Detects any standard iBeacon
 
 ## Notices ##
-This project is  for developers to make a reference, but not for commercial purposes. If you have any questions when you use the codes , or you need  the source codes which can be used for commercial purposes, please contact us directly.
+This project is  for developers to make a reference, but not for commercial purposes. If you have any questions when you use the codes , or you need  the source codes which can be used for commercial purposes, please contact us directly. [More examples](https://github.com/AlvinBert/android-ibeacon-source-code-Jaalee-master)
 
 ## Supports ##
 Author：Alvin.Bert
