@@ -1,4 +1,4 @@
-﻿android-ibeacon-Pro-source-code
+﻿android-ibeacon-Jaalee-source-code
 ===========================
 
 ## Features ##
